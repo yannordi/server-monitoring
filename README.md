@@ -1,8 +1,9 @@
+<br>
 ward (yannordi datacenter edition)
-monitoring des serveur 
-package en java déja pré fait 
+logiciel de monitoring des serveur 
+package en java déja pré fait (java_package)
 port 4000 (défaut)
-port 80 (défini pendant le setup)
+
 
 <br>
 
