@@ -1,6 +1,8 @@
 ward (yannordi datacenter edition)
 monitoring des serveur 
-pzackage en java déja pré fait 
+package en java déja pré fait 
+port 4000 (défaut)
+port 80 (défini pendant le setup)
 
 ### Installation
     Create your own jar
